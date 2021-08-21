@@ -46,4 +46,4 @@ Open the project in an IDE (preferably IntelliJ), and run the `App.java` file fo
 
 ## License
 
-This project uses the following license: [GNU General Public License v3.0](<link>).
+This project uses the following license: [GNU General Public License v3.0](./LICENSE).
