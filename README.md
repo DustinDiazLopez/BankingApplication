@@ -1,9 +1,5 @@
 # Banking App
 
-## Project Description
-
-...
-
 ## Technologies Used
 
 * Maven
@@ -55,4 +51,4 @@
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [GNU General Public License v3.0](<link>).
